@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: EMERALD workshop
-description: In conjunction with PODC and SPAA, Nantes, France, June 17-21, 2024
+description:

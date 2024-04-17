@@ -1,4 +1,4 @@
-# 1st Workshop on Distributed Computing with Emerging Hardware Technology (EMERALD)
+<!-- # 1st Workshop on Distributed Computing with Emerging Hardware Technology (EMERALD) -->
 
 ### November 21th, 2023 (full day event)
 
