@@ -1,26 +1,14 @@
 <!-- # 1st Workshop on Distributed Computing with Emerging Hardware Technology (EMERALD) -->
 
-### November 21th, 2023 (full day event)
-
-### In conjunction with [PODC'24](https://www.podc.org/podc2024/), Nantes, France, June 17-21, 2024
+<!-- ### In conjunction with [PODC'24](https://www.podc.org/podc2024/), Nantes, France, June 17-21, 2024 -->
 
 
 ## Overview and scope
 
-EMERALD aims at investigating how the utilization of future and emerging hardware technology can
-influence (or add to) the foundations of concurrent and distributed computing. The workshop will host a
-series of invited talks which will contribute to the better understanding of how such technology could
-change what we know about concurrent and distributed algorithms and models. The emphasis will be on
-persistent memory computing, NUMA-aware computing, distributed computing in systems with Remote
-Direct Memory Accesses (RDMA), distributed and concurrent computing on top of heterogeneous
-hardware, processing in memory (PIM), near-memory processing (NMP), disaggregated/composable
-systems, and others.
+EMERALD aims at investigating how the utilization of future and emerging hardware technology can influence (or add to) the foundations of concurrent and distributed computing. The workshop will host a series of invited talks which will contribute to the better understanding of how such technology could change what we know about concurrent and distributed algorithms and models. The emphasis will be on persistent memory computing, NUMA-aware computing, distributed computing in systems with Remote Direct Memory Accesses (RDMA), distributed and concurrent computing on top of heterogeneous hardware, processing in memory (PIM), near-memory processing (NMP), disaggregated/composable systems, and others. 
+The topics covered by EMERALD specialize the following broader topics for systems that feature modern, emerging or future hardware technology:
 
-The topics covered by EMERALD are of high relevance to the scope of PODC. In particular, they specialize
-the following broader topics of interest listed in the PODC CFP, for systems that feature modern, emerging
-or future hardware technology:
-
-- concurrency, synchronization, and persistence
+- concurrency, synchronization, and persistence 
 - design and analysis of concurrent and distributed algorithms
 - distributed and concurrent data structures
 - fault-tolerance, self-organization, and self-stabilization
@@ -28,16 +16,25 @@ or future hardware technology:
 - multiprocessor and multi-core architectures and algorithms
 - transactional memory
 
-Through a carefully-chosen collection of invited talks, EMERALD aspires to reveal realistic and practical
-aspects that can positively influence theory research, in whatever regards the choice of the problems to
-work on, the right level of abstraction to study them, how to come up with realistic models for
-computation, how to efficiently support additional desirable features (persistence, NUMA-awareness,
-architecture-specific design) when designing concurrent and distributed algorithms, while maintaining or
-improving their performance characteristics, etc.
+Through a carefully-chosen collection of invited talks, EMERALD aspires to reveal realistic and practical aspects that can positively influence theory research, in whatever regards the choice of the problems to work on, the right level of abstraction to study them, how to come up with realistic models for computation, how to efficiently support additional desirable features (persistence, NUMA-awareness, architecture-specific design) when designing concurrent and distributed algorithms, while maintaining or improving their performance characteristics, etc. 
+EMERALD will be a full-day event.  In addition to hosting lectures by invited speakers, it will feature an open discussion session aiming at highlighting important problems for future research. 
+
 
 ## Program
 
-To be defined soon
+The workshop takes place on June 21st, 2024. 
+
+| Time  | Activity  |
+|---|---|
+| 9:00 – 10:30 |	1st Session of Invited Talks |
+| 10:30 – 10:50 |	Coffee Break |
+| 10:50 – 12:20 |	2nd Session of Invited Talks |
+| 12:20 – 14:00 |	Lunch |
+| 14:00 – 15:30 |	3rd Session of Invited Talks |
+| 15:30 – 16:00 |	Coffee Break |
+| 16:00  – 18:00 | Discussion Session - Panel |
+
+
 
 
 
@@ -50,3 +47,7 @@ To be defined soon
 (FORTH), Greece
 - Maurice Herlihy, Brown University, USA
 - Erez Petrank, Technion, Israel
+
+## Contact
+
+Panagiota Fatourou <faturu@ics.forth.gr>
