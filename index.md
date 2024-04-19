@@ -24,17 +24,6 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 
 The workshop takes place on June 21st, 2024. 
 
-| Time  | Activity  |
-|---|---|
-| 9:00 – 10:30 |	1st Session of Invited Talks |
-| 10:30 – 10:50 |	Coffee Break |
-| 10:50 – 12:20 |	2nd Session of Invited Talks |
-| 12:20 – 14:00 |	Lunch |
-| 14:00 – 15:30 |	3rd Session of Invited Talks |
-| 15:30 – 16:00 |	Coffee Break |
-| 16:00  – 18:00 | Discussion Session - Panel |
-
-
 
 
 
