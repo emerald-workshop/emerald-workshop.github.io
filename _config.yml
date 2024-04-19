@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: EMERALD: 1st Workshop on Distributed Computing with Emerging Hardware Technology
-description: June 21th, 2024. Colocated with [PODC'24](https://www.podc.org/podc2024/) and [SPAA'24](https://spaa.acm.org/), Nantes, France.
+description: June 21th, 2024. Colocated with PODC and SPAA, Nantes, France.
