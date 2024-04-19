@@ -48,6 +48,4 @@ The workshop takes place on June 21st, 2024.
 - Maurice Herlihy, Brown University, USA
 - Erez Petrank, Technion, Israel
 
-## Contact
-
-Panagiota Fatourou <faturu@ics.forth.gr>
+Contact: Panagiota Fatourou <faturu@ics.forth.gr>
