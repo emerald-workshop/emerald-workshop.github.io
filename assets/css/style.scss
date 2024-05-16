@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: orange;
+}
+
+.main-content h2 {
+    color: black;
+}
