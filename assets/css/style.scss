@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 h1 {
     color: black;
 }
@@ -14,3 +12,6 @@ h2 {
 .main-content {
     color: black;
 }
+
+@import "{{ site.theme }}";
+
