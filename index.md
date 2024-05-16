@@ -1,10 +1,6 @@
-<!-- ![EMERALD](EMERALD.png) -->
+<!-- # 1st Workshop on Distributed Computing with Emerging Hardware Technology (EMERALD) -->
 
-<!-- # EMERALD <br/> 1st Workshop on Distributed Computing with Emerging Hardware Technology -->
-
-### June 21th, 2024. Colocated with PODC and SPAA 2024. Nantes, France.
 <!-- ### In conjunction with [PODC'24](https://www.podc.org/podc2024/), Nantes, France, June 17-21, 2024 -->
-
 
 
 ## Overview and scope

@@ -1,3 +1,7 @@
-title:  <img src="EMERALD.png" width="100%" height="auto"><br/> EMERALD <br/> 1st Workshop on Distributed Computing with Emerging Hardware Technology
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: EMERALD <br/> 1st Workshop on Distributed Computing with Emerging Hardware Technology
 
 description: June 21th, 2024. Colocated with PODC and SPAA 2024. Nantes, France.
