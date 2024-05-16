@@ -4,13 +4,21 @@
 @import "{{ site.theme }}";
 
 h1 {
-    color: black;
+    color: white;
 }
 
 h2 {
     color: black;
 }
 
+.main-content h1 {
+    color: black;
+}
+
 .main-content h2 {
+    color: black;
+}
+
+.main-content h3 {
     color: black;
 }
