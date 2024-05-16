@@ -1,4 +1,4 @@
-# 1st Workshop on Distributed Computing with Emerging Hardware Technology
+<!-- # 1st Workshop on Distributed Computing with Emerging Hardware Technology -->
 
 <!-- ### In conjunction with [PODC'24](https://www.podc.org/podc2024/), Nantes, France, June 17-21, 2024 -->
 
