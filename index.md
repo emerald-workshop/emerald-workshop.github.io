@@ -20,6 +20,33 @@ The topics covered by EMERALD specialize the following broader topics for system
 Through a carefully-chosen collection of invited talks, EMERALD aspires to reveal realistic and practical aspects that can positively influence theory research, in whatever regards the choice of the problems to work on, the right level of abstraction to study them, how to come up with realistic models for computation, how to efficiently support additional desirable features (persistence, NUMA-awareness, architecture-specific design) when designing concurrent and distributed algorithms, while maintaining or improving their performance characteristics, etc. 
 EMERALD will be a full-day event.  In addition to hosting lectures by invited speakers, it will feature an open discussion session aiming at highlighting important problems for future research. 
 
+## Speakers
+
+ - Naama Ben David, Technion, Israel
+
+- Gregory Chockler, University of Surrey, UK
+
+- Denisa-Andreea Constantinescu, EPFL, Switzerland
+
+- Panagiota Fatourou, University of Crete and FORTH, Greece
+
+- Wojciech Golab, University of Waterloo, Canada
+
+- Jim Larus, EPFL, Switzerland
+
+- Roberto Palmieri, Lehigh University, US
+
+- João Barreto, University of Lisbon and INESC-ID, Portugal
+
+- Erez Petrank, Technion, Israel
+
+- Paolo Romano, University of Lisbon and INESC-ID, Portugal
+
+- Eric Ruppert, York University, Canada
+
+- Samuel Thomas, Brown University, US
+
+- Gala Yadgar, Technion, Israel
 
 ## Program
 
