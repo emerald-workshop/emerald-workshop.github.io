@@ -2,7 +2,7 @@
 
 <!-- ### In conjunction with [PODC'24](https://www.podc.org/podc2024/), Nantes, France, June 17-21, 2024 -->
 
-### June 21th, 2024. Colocated with PODC and SPAA 2024. Nantes, France.
+### June 21th, 2024. Colocated with [PODC'24](https://www.podc.org/podc2024/) and [SPAA'24](https://spaa.acm.org/). Nantes, France.
 
 ## Overview and scope
 
