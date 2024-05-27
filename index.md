@@ -22,31 +22,35 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 
 ## Speakers
 
- - Naama Ben David, Technion, Israel
+ - **Naama Ben David**, Technion, Israel
 
-- Gregory Chockler, University of Surrey, UK
+- **Gregory Chockler**, University of Surrey, UK
 
-- Denisa-Andreea Constantinescu, EPFL, Switzerland
+- **Denisa-Andreea Constantinescu**, EPFL, Switzerland
 
-- Panagiota Fatourou, University of Crete and FORTH, Greece
+- **Panagiota Fatourou**, University of Crete and FORTH, Greece
 
-- Wojciech Golab, University of Waterloo, Canada
+- **Phillip Gibbons**, Carnegie Mellon University, US
 
-- Jim Larus, EPFL, Switzerland
+- **Wojciech Golab**, University of Waterloo, Canada
 
-- Roberto Palmieri, Lehigh University, US
+- **George Hodgkins**, University of Colorado, Boulder and Sandia National Lab, US
 
-- João Barreto, University of Lisbon and INESC-ID, Portugal
+- **Jim Larus**, EPFL, Switzerland
 
-- Erez Petrank, Technion, Israel
+- **Roberto Palmieri**, Lehigh University, US
 
-- Paolo Romano, University of Lisbon and INESC-ID, Portugal
+- **João Barreto**, University of Lisbon and INESC-ID, Portugal
 
-- Eric Ruppert, York University, Canada
+- **Erez Petrank**, Technion, Israel
 
-- Samuel Thomas, Brown University, US
+- **Paolo Romano**, University of Lisbon and INESC-ID, Portugal
 
-- Gala Yadgar, Technion, Israel
+- **Eric Ruppert**, York University, Canada
+
+- **Samuel Thomas**, Brown University, US
+
+- **Gala Yadgar**, Technion, Israel
 
 ## Program
 
