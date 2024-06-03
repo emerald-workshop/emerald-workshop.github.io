@@ -70,6 +70,22 @@ The workshop takes place on June 21st, 2024.
 ## Talks and speakers
 
 
+<table>
+    <tbody>
+        <tr>
+            <td>Hardware-Accelerated, Fine-Grain BSP <br> James Larus <br> EPFL <br> Switzerland</td>
+            <td><img src="speakers/larus.jpeg" alt="James Larus" width="150"/> </td>
+        </tr>
+        <tr>
+            <td colspan=2>
+            Hardware verification and testing heavily rely on cycle-accurate RTL simulation. Conventional, single-threaded RTL simulation is a bottleneck in the design of increasingly complex chips and systems. Parallel RTL simulation, where, ideally, simulators run on hundreds and thousands of parallel cores, is an appealing remedy. However, existing simulators only exploit tens of cores due to the high cost of synchronization and communication. 
+
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 | Hardware-Accelerated, Fine-Grain BSP <br> James Larus <br> EPFL <br> Switzerland  | <img src="speakers/larus.jpeg" alt="James Larus" width="150"/>  |
 |---|---|
 | | |
