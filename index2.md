@@ -70,13 +70,12 @@ The workshop takes place on June 21st, 2024.
 ## Talks and speakers
 
 
-### LOCO: Building Applications in Network Memory with Cross-Node Objects 
 
 <table>
     <tbody>
         <tr>
             <td width="150"><img src="speakers/Hodgkins.jpg" alt="George Hodgkins" height="150"/> </td>
-            <td>George Hodgkins <br> University of Colorado, Boulder and Sandia National Lab <br> US</td>
+            <td><h3>LOCO: Building Applications in Network Memory with Cross-Node Objects</h3> <br> George Hodgkins <br> University of Colorado, Boulder and Sandia National Lab <br> US</td>
         </tr>
         <tr>
             <td colspan=2>
@@ -90,13 +89,12 @@ Based on this philosophy, we introduce the Library of Channel Objects (LOCO), a 
 </table>
 
 
-### Hardware-Accelerated, Fine-Grain BSP
 
 <table>
     <tbody>
         <tr>
             <td width="150"><img src="speakers/larus.jpeg" alt="James Larus" height="150"/> </td>
-            <td>James Larus <br> EPFL <br> Switzerland</td>
+            <td><h3>Hardware-Accelerated, Fine-Grain BSP</h3> <br> James Larus <br> EPFL <br> Switzerland</td>
         </tr>
         <tr>
             <td colspan=2>
