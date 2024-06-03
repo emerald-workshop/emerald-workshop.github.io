@@ -73,12 +73,14 @@ The workshop takes place on June 21st, 2024.
 <table>
     <tbody>
         <tr>
-            <td>Hardware-Accelerated, Fine-Grain BSP <br> James Larus <br> EPFL <br> Switzerland</td>
-            <td><img src="speakers/larus.jpeg" alt="James Larus" width="150"/> </td>
+            <td>**LOCO: Building Applications in Network Memory with Cross-Node Objects** <br> **George Hodgkins** <br> University of Colorado, Boulder and Sandia National Lab <br> US</td>
+            <td><img src="speakers/Hodgkins.jpeg" alt="George Hodgkins" height="150"/> </td>
         </tr>
         <tr>
             <td colspan=2>
-            Hardware verification and testing heavily rely on cycle-accurate RTL simulation. Conventional, single-threaded RTL simulation is a bottleneck in the design of increasingly complex chips and systems. Parallel RTL simulation, where, ideally, simulators run on hundreds and thousands of parallel cores, is an appealing remedy. However, existing simulators only exploit tens of cores due to the high cost of synchronization and communication. 
+            In this talk, we explore the the idea of objects as a programming model for clusters using network memory (RDMA or CXL). We argue that the natural representation of an application designed for network memory is a system of interconnected objects which extend well-defined methods to the programmer, similar to traditional object-oriented application designs. These concurrent objects store their state in a distributed fashion across all participating nodes, especially in an incoherent or uncacheable memory network. In a sense, channel state is stored "across the network".
+
+Based on this philosophy, we introduce the Library of Channel Objects (LOCO), a shared-memory-like object-based library for RDMA and extensible to other weak memories. Channels are composable and reusable, and designed for both the strong locality effects and the weak consistency of RDMA.  Unlike prior work, LOCO channels do not hide memory complexity, instead relying on the programmer to use NUMA-like techniques to explicitly manage each object. As a consequence, our channel objects have performance similar to custom RDMA systems (e.g. distributed maps), but with a far simpler programming model. Our distributed map channel has better read and comparable write performance to a state-of-the-art custom RDMA solution, using well-encapsulated and reusable primitives.
 
             </td>
         </tr>
@@ -86,19 +88,31 @@ The workshop takes place on June 21st, 2024.
 </table>
 
 
-| Hardware-Accelerated, Fine-Grain BSP <br> James Larus <br> EPFL <br> Switzerland  | <img src="speakers/larus.jpeg" alt="James Larus" width="150"/>  |
-|---|---|
-| | |
+<table>
+    <tbody>
+        <tr>
+            <td>**Hardware-Accelerated, Fine-Grain BSP** <br> **James Larus** <br> EPFL <br> Switzerland</td>
+            <td><img src="speakers/larus.jpeg" alt="James Larus" height="150"/> </td>
+        </tr>
+        <tr>
+            <td colspan=2>
+            Hardware verification and testing heavily rely on cycle-accurate RTL simulation. Conventional, single-threaded RTL simulation is a bottleneck in the design of increasingly complex chips and systems. Parallel RTL simulation, where, ideally, simulators run on hundreds and thousands of parallel cores, is an appealing remedy. However, existing simulators only exploit tens of cores due to the high cost of synchronization and communication. 
 
-
-
-Hardware verification and testing heavily rely on cycle-accurate RTL simulation. Conventional, single-threaded RTL simulation is a bottleneck in the design of increasingly complex chips and systems. Parallel RTL simulation, where, ideally, simulators run on hundreds and thousands of parallel cores, is an appealing remedy. However, existing simulators only exploit tens of cores due to the high cost of synchronization and communication. 
-
-RTL simulation generally conforms to Valiant’s BSP pattern, where barriers separate the computation of logic values from their communication to consumers in the following clock cycle.  BSP is challenging to apply effectively in fine-grain computation like RTL simulation because of its synchronization and communication costs. This work explores two solutions.
+            RTL simulation generally conforms to Valiant’s BSP pattern, where barriers separate the computation of logic values from their communication to consumers in the following clock cycle.  BSP is challenging to apply effectively in fine-grain computation like RTL simulation because of its synchronization and communication costs. This work explores two solutions.
 
 The first is Manticore, a parallel computer designed to accelerate RTL simulation by using static scheduling to minimize runtime overhead. The Manticore compiler statically schedules resources and communication, which is feasible since RTL code contains few divergent code paths. Communication and synchronization overhead is minimal, making fine-grained parallelism practical. Moreover, static scheduling dramatically simplifies the processor, significantly increasing the number of cores that fit on a chip. Our 225-core FPGA prototype runs at 475 MHz and outperforms state-of-the-art RTL simulators.
 
 However, the widening gap between chip size and processor performance means we need parallel RTL simulators capable of running across thousands of cores. We studied the challenges inherent in massively parallel RTL simulation on the Graphcore computer, constructed from multiple 1472-core IPUs, which have hardware support for BSP programming. We analyzed the IPU’s synchronization and communication performance and built Parendi, which runs RTL simulations across 5888 cores in 4 IPU sockets.
+
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
 
 
 
