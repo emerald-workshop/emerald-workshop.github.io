@@ -75,8 +75,8 @@ The workshop takes place on June 21st, 2024.
 <table>
     <tbody>
         <tr>
-            <td>George Hodgkins <br> University of Colorado, Boulder and Sandia National Lab <br> US</td>
             <td><img src="speakers/Hodgkins.jpg" alt="George Hodgkins" height="150"/> </td>
+            <td>George Hodgkins <br> University of Colorado, Boulder and Sandia National Lab <br> US</td>
         </tr>
         <tr>
             <td colspan=2>
@@ -95,8 +95,8 @@ Based on this philosophy, we introduce the Library of Channel Objects (LOCO), a 
 <table>
     <tbody>
         <tr>
-            <td>James Larus <br> EPFL <br> Switzerland</td>
             <td><img src="speakers/larus.jpeg" alt="James Larus" height="150"/> </td>
+            <td>James Larus <br> EPFL <br> Switzerland</td>
         </tr>
         <tr>
             <td colspan=2>
