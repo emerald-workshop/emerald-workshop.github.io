@@ -70,6 +70,9 @@ The workshop takes place on June 21st, 2024.
 ## Talks and speakers
 
 
+| Time  | Activity  |
+|---|---|
+
 | Hardware-Accelerated, Fine-Grain BSP <br> James Larus |  <img src="speakers/larus.jpeg" alt="James Larus" width="200"/> |
 |---|---|
 
