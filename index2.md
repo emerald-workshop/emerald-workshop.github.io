@@ -24,10 +24,20 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 ## Talks
 
 
-<button class="accordion">Section 1</button>
+ <button class="accordion">Section 1</button>
 <div class="panel">
   <p>Lorem ipsum...</p>
 </div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div> 
 
 <table>
     <tbody>
