@@ -24,7 +24,10 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 ## Talks
 
 
-
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
 
 <table>
     <tbody>
@@ -35,10 +38,7 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
         <tr>
             <td colspan=2>
 
-            <button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+            
 
             <p>In this talk, we explore the the idea of objects as a programming model for clusters using network memory (RDMA or CXL). We argue that the natural representation of an application designed for network memory is a system of interconnected objects which extend well-defined methods to the programmer, similar to traditional object-oriented application designs. These concurrent objects store their state in a distributed fashion across all participating nodes, especially in an incoherent or uncacheable memory network. In a sense, channel state is stored "across the network".</p>
 
