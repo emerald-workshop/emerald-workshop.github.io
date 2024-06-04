@@ -21,7 +21,7 @@ Through a carefully-chosen collection of invited talks, EMERALD aspires to revea
 EMERALD will be a full-day event.  In addition to hosting lectures by invited speakers, it will feature an open discussion session aiming at highlighting important problems for future research. 
 
 
-## Talks and speakers
+## Talks
 
 
 
