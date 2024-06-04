@@ -67,7 +67,6 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 </table>
 
 
-
 ## Program
 
 The workshop takes place on June 21st, 2024. 
