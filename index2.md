@@ -26,7 +26,7 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 
 
 
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td><h4>LOCO: Building Applications in Network Memory with Cross-Node Objects</h4> <br> <b>George Hodgkins</b> <br> University of Colorado, Boulder and Sandia National Lab, US</td>
@@ -34,7 +34,7 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
         </tr>
         <tr>
             <td colspan=2>
-            <button class="accordion">Show abstract</button>
+            <button class="accordion">Show/hide abstract</button>
             <div class="panel">
               <p>In this talk, we explore the the idea of objects as a programming model for clusters using network memory (RDMA or CXL). We argue that the natural representation of an application designed for network memory is a system of interconnected objects which extend well-defined methods to the programmer, similar to traditional object-oriented application designs. These concurrent objects store their state in a distributed fashion across all participating nodes, especially in an incoherent or uncacheable memory network. In a sense, channel state is stored "across the network".</p>
 
