@@ -74,8 +74,8 @@ The workshop takes place on June 21st, 2024.
 <table>
     <tbody>
         <tr>
-            <td width="150"><img src="speakers/Hodgkins.jpg" alt="George Hodgkins" height="150"/> </td>
             <td><h4>LOCO: Building Applications in Network Memory with Cross-Node Objects</h4> <br> George Hodgkins <br> University of Colorado, Boulder and Sandia National Lab <br> US</td>
+            <td width="150"><img src="speakers/Hodgkins.jpg" alt="George Hodgkins" height="150"/> </td>
         </tr>
         <tr>
             <td colspan=2>
@@ -94,8 +94,8 @@ The workshop takes place on June 21st, 2024.
 <table>
     <tbody>
         <tr>
-            <td width="150"><img src="speakers/larus.jpeg" alt="James Larus" height="150"/> </td>
             <td><h4>Hardware-Accelerated, Fine-Grain BSP</h4> <br> James Larus <br> EPFL <br> Switzerland</td>
+            <td width="150"><img src="speakers/larus.jpeg" alt="James Larus" height="150"/> </td>
         </tr>
         <tr>
             <td colspan=2>
