@@ -20,52 +20,6 @@ The topics covered by EMERALD specialize the following broader topics for system
 Through a carefully-chosen collection of invited talks, EMERALD aspires to reveal realistic and practical aspects that can positively influence theory research, in whatever regards the choice of the problems to work on, the right level of abstraction to study them, how to come up with realistic models for computation, how to efficiently support additional desirable features (persistence, NUMA-awareness, architecture-specific design) when designing concurrent and distributed algorithms, while maintaining or improving their performance characteristics, etc. 
 EMERALD will be a full-day event.  In addition to hosting lectures by invited speakers, it will feature an open discussion session aiming at highlighting important problems for future research. 
 
-## Speakers
-
- - **Naama Ben David**, Technion, Israel
-
-- **Gregory Chockler**, University of Surrey, UK
-
-- **Denisa-Andreea Constantinescu**, EPFL, Switzerland
-
-- **Panagiota Fatourou**, University of Crete and FORTH, Greece
-
-- **Phillip Gibbons**, Carnegie Mellon University, US
-
-- **Wojciech Golab**, University of Waterloo, Canada
-
-- **George Hodgkins**, University of Colorado, Boulder and Sandia National Lab, US
-
-- **Jim Larus**, EPFL, Switzerland
-
-- **Roberto Palmieri**, Lehigh University, US
-
-- **João Barreto**, University of Lisbon and INESC-ID, Portugal
-
-- **Erez Petrank**, Technion, Israel
-
-- **Paolo Romano**, University of Lisbon and INESC-ID, Portugal
-
-- **Eric Ruppert**, York University, Canada
-
-- **Samuel Thomas**, Brown University, US
-
-- **Gala Yadgar**, Technion, Israel
-
-## Program
-
-The workshop takes place on June 21st, 2024. 
-
-| Time  | Activity  |
-|---|---|
-| 9:00 – 10:30 |	1st Session of Invited Talks |
-| 10:30 – 10:50 |	Coffee Break |
-| 10:50 – 12:20 |	2nd Session of Invited Talks |
-| 12:20 – 14:00 |	Lunch |
-| 14:00 – 15:30 |	3rd Session of Invited Talks |
-| 15:30 – 16:00 |	Coffee Break |
-| 16:00  – 18:00 | Discussion Session - Panel |
-
 
 ## Talks and speakers
 
@@ -111,6 +65,25 @@ The workshop takes place on June 21st, 2024.
         </tr>
     </tbody>
 </table>
+
+
+
+## Program
+
+The workshop takes place on June 21st, 2024. 
+
+| Time  | Activity  |
+|---|---|
+| 9:00 – 10:30 |	1st Session of Invited Talks |
+| 10:30 – 10:50 |	Coffee Break |
+| 10:50 – 12:20 |	2nd Session of Invited Talks |
+| 12:20 – 14:00 |	Lunch |
+| 14:00 – 15:30 |	3rd Session of Invited Talks |
+| 15:30 – 16:00 |	Coffee Break |
+| 16:00  – 18:00 | Discussion Session - Panel |
+
+
+
 
 
 
