@@ -72,7 +72,7 @@ The workshop takes place on June 21st, 2024.
 
 ## Talks
 
-<table style="width:100%">
+<table>
     <tbody>
         <tr>
             <td><h4>Hardware-Accelerated, Fine-Grain BSP</h4> <br> <b>James Larus</b> <br> EPFL, Switzerland</td>
