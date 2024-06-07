@@ -72,6 +72,8 @@ The workshop takes place on June 21st, 2024.
 
 ## Talks
 
+<br/>
+
 {% include_relative talks/larus.md %}
 
 {% include_relative talks/barreto.md %}
