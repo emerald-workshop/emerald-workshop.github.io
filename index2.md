@@ -120,6 +120,7 @@ The workshop takes place on June 21st, 2024.
 
 
 
+{% include_relative speakers/larus.md %}
 
 
 
