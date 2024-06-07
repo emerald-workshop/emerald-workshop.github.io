@@ -83,13 +83,9 @@ The workshop takes place on June 21st, 2024.
             <td colspan=2>
             <button class="accordion">Show/hide abstract</button>
             <div class="panel">
-
             <p>Hardware verification and testing heavily rely on cycle-accurate RTL simulation. Conventional, single-threaded RTL simulation is a bottleneck in the design of increasingly complex chips and systems. Parallel RTL simulation, where, ideally, simulators run on hundreds and thousands of parallel cores, is an appealing remedy. However, existing simulators only exploit tens of cores due to the high cost of synchronization and communication. </p>
-
             <p>RTL simulation generally conforms to Valiant’s BSP pattern, where barriers separate the computation of logic values from their communication to consumers in the following clock cycle.  BSP is challenging to apply effectively in fine-grain computation like RTL simulation because of its synchronization and communication costs. This work explores two solutions.</p>
-
             <p>The first is Manticore, a parallel computer designed to accelerate RTL simulation by using static scheduling to minimize runtime overhead. The Manticore compiler statically schedules resources and communication, which is feasible since RTL code contains few divergent code paths. Communication and synchronization overhead is minimal, making fine-grained parallelism practical. Moreover, static scheduling dramatically simplifies the processor, significantly increasing the number of cores that fit on a chip. Our 225-core FPGA prototype runs at 475 MHz and outperforms state-of-the-art RTL simulators.</p>
-
             <p>However, the widening gap between chip size and processor performance means we need parallel RTL simulators capable of running across thousands of cores. We studied the challenges inherent in massively parallel RTL simulation on the Graphcore computer, constructed from multiple 1472-core IPUs, which have hardware support for BSP programming. We analyzed the IPU’s synchronization and communication performance and built Parendi, which runs RTL simulations across 5888 cores in 4 IPU sockets.</p>
             </div>
             </td>
