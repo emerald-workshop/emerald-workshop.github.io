@@ -72,6 +72,7 @@ The workshop takes place on June 21st, 2024.
 
 ## Talks
 
+v2
 
 <table style="width:100%">
     <tbody>
