@@ -53,3 +53,13 @@ h2 {
     display: none;
     overflow: hidden;
   } 
+
+
+  table
+{
+    margin: 10px 0;
+    width: 100%;
+    display: block;
+    table-layout: fixed
+    display: table
+}
