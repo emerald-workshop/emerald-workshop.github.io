@@ -72,7 +72,10 @@ The workshop takes place on June 21st, 2024.
 
 ## Talks
 
-
+{% include_relative talks/barreto.html %}
+{% include_relative talks/constantinescu.html %}
+{% include_relative talks/gibbons.html %}
+{% include_relative talks/larus.html %}
 
 
 
