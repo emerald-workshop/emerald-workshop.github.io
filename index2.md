@@ -78,6 +78,7 @@ The workshop takes place on June 21st, 2024.
 {% include_relative talks/hodgkins.html %}
 {% include_relative talks/larus.html %}
 {% include_relative talks/palmieri.html %}
+{% include_relative talks/thomas.html %}
 {% include_relative talks/ruppert.html %}
 {% include_relative talks/yadgar.html %}
 
