@@ -1,0 +1,27 @@
+<table style="width:100%">
+    <tbody>
+        <tr>
+            <td><h4>
+                Persistent hardware transactions can scale 
+            </h4> <br> <b>
+                João Barreto
+            </b> <br> 
+            University of Lisbon and INESC-ID, Portugal
+            </td>
+            <td width="150"><img src="barreto.jpeg" alt="Speaker's photo" height="150"/> </td>
+        </tr>
+        <tr>
+            <td colspan=2>
+            <button class="accordion">Show/hide abstract</button>
+            <div class="panel">
+
+            <p>Persistent Memory (PM) has paved the way for researchers to develop Transactional Memories (TMs) that, besides providing atomic transactions in main memory, also deliver durable transactions.
+                Unfortunately, combining PM and TM is challenging, as the most efficient implementations of TM, i.e., Hardware Transaction Memories (HTMs), operate at the level of CPU caches. As caches are volatile, the durability of transactions needs to be enforced using additional software mechanisms that explicitly, yet transparently for the programmer, flush the cache contents via carefully designed protocols taking place at commit time.</p>
+                
+                <p>In this talk I'll present how we can work around these issues with the help of a carefully crafted software layer that is interposed between the application and the HTM.
+                Moreover, I'll highlight the scalability shortcomings of the state of the art in persistent hardware transactions, and present some recent ideas to overcome them. </p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
