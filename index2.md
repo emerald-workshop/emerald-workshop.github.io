@@ -53,6 +53,8 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 
 - **Gala Yadgar**, Technion, Israel
 
+- **Eleni Kanellou**, FORTH ICS, Greece
+
 
 ## Program
 
@@ -75,13 +77,19 @@ The workshop takes place on June 21st, 2024.
 <table>
     <tbody>
 {% include_relative talks/barreto.html %}
+{% include_relative talks/chockler.html %}
 {% include_relative talks/constantinescu.html %}
+{% include_relative talks/david.html %}
+{% include_relative talks/fatourou.html %}
 {% include_relative talks/gibbons.html %}
 {% include_relative talks/golab.html %}
 {% include_relative talks/hodgkins.html %}
+{% include_relative talks/kanellou.html %}
 {% include_relative talks/larus.html %}
 {% include_relative talks/palmieri.html %}
+{% include_relative talks/petrank.html %}
 {% include_relative talks/thomas.html %}
+{% include_relative talks/romano.html %}
 {% include_relative talks/ruppert.html %}
 {% include_relative talks/yadgar.html %}
     </tbody>
