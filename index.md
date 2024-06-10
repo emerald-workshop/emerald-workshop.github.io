@@ -23,11 +23,13 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 
 ## Speakers
 
- - **Naama Ben David**, Technion, Israel
+- **João Barreto**, University of Lisbon and INESC-ID, Portugal
 
 - **Gregory Chockler**, University of Surrey, UK
 
 - **Denisa-Andreea Constantinescu**, EPFL, Switzerland
+
+ - **Naama Ben David**, Technion, Israel
 
 - **Panagiota Fatourou**, University of Crete and FORTH, Greece
 
@@ -42,8 +44,6 @@ EMERALD will be a full-day event.  In addition to hosting lectures by invited sp
 - **Jim Larus**, EPFL, Switzerland
 
 - **Roberto Palmieri**, Lehigh University, US
-
-- **João Barreto**, University of Lisbon and INESC-ID, Portugal
 
 - **Erez Petrank**, Technion, Israel
 
