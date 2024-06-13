@@ -64,14 +64,14 @@ The workshop takes place on June 21st, 2024.
 
 | Time  | Activity  |
 |---|---|
-| 9:00 – 10:40 <br/> Session 1 |	**Persistent Computing – Theory, Algorithms, Data Structures (Session Chair: Maurice Herlihy)** <br/> **Wojciech Golab**: How Persistent Memory Changed Distributed Computing Theory<br/> **Erez Petrank**: The Persistence Bug: Dead or Alive?<br/>**Panagiota Fatourou**: Persistent Data Structures: The principles that govern their design<br/>**Eleni Kanellou**: The Power of Software Combining in Persistence<br/>**Eric Ruppert**: When is Recoverable Consensus harder than Consensus? |
-| 10:40 – 11:00 |	**Coffee Break I** |
-| 11:00 – 12:20<br/> Session 2 | **Hardware-Aware/Accelerated/Supported Distributed Computing (Session Chair: Joao Barreto)**<br/>**Roberto Palmieri**: Synchronization using RDMA: High Performance, Programmability, and Scalability<br/> **George Hodgkins**: LOCO: Building Applications in Network Memory with Cross-Node Objects<br/>**Jim Larus**: Hardware-Accelerated, Fine-Grain BSP<br/>**Denisa-Andreea Constantinescu**: Neuro-Inspired Edge AI Architectures for Distributed Federated Learning |
-| 12:40 – 14:00 |	**Lunch** |
-| 14:00 – 15:40<br/> Session 3 | **Memory & Storage – Systems, Practice, Applications (Session Chair: Erez Petrank)**<br/>**Naama Ben-David**: The Effects of Fast I/O on Concurrent Computing<br/> **Gala Yadgar**: Who moved my cheese? How storage systems deal with changes in their media<br/> **Gregory Chockler**: Mangosteen: Fast Transparent Durability for Linearizable Applications using NVM<br/> **João Barreto**: Persistent hardware transactions can scale <br/>**Samuel Thomas**: Rethinking Secure NVM in the Age of CXL |
-| 15:40 – 16:00 |	**Coffee Break II** |
-| 16:00 – 16:40 | **Processing in Memory (Session chair: Panagiota Fatourou)**<br/> **Phillip Gibbons**: Processing-in-Memory: Theory and Practice<br/>**Paolo Romano**: Transactional Memory for Processing-In-Memory Systems: a Software-based Implementation for the UPMEM platform |
-| 16:40  – 18:00 | **Discussion Session - Panel** |
+| 9:00–10:40 <br/> Session 1 |	**Persistent Computing – Theory, Algorithms, Data Structures<br/>Session Chair: Maurice Herlihy** <br/> 1. **Wojciech Golab**: How Persistent Memory Changed Distributed Computing Theory<br/> 2. **Erez Petrank**: The Persistence Bug: Dead or Alive?<br/>3. **Panagiota Fatourou**: Persistent Data Structures: The principles that govern their design<br/>4. **Eleni Kanellou**: The Power of Software Combining in Persistence<br/>5. **Eric Ruppert**: When is Recoverable Consensus harder than Consensus? |
+| 10:40–11:00 |	**Coffee Break I** |
+| 11:00–12:20<br/> Session 2 | **Hardware-Aware/Accelerated/Supported Distributed Computing<br/>Session Chair: João Barreto**<br/>1. **Roberto Palmieri**: Synchronization using RDMA: High Performance, Programmability, and Scalability<br/>2. **George Hodgkins**: LOCO: Building Applications in Network Memory with Cross-Node Objects<br/>3. **Jim Larus**: Hardware-Accelerated, Fine-Grain BSP<br/>4. **Denisa-Andreea Constantinescu**: Neuro-Inspired Edge AI Architectures for Distributed Federated Learning |
+| 12:40–14:00 |	**Lunch** |
+| 14:00–15:40<br/> Session 3 | **Memory & Storage – Systems, Practice, Applications<br/>Session Chair: Erez Petrank**<br/>1. **Naama Ben-David**: The Effects of Fast I/O on Concurrent Computing<br/>2. **Gala Yadgar**: Who moved my cheese? How storage systems deal with changes in their media<br/>3. **Gregory Chockler**: Mangosteen: Fast Transparent Durability for Linearizable Applications using NVM<br/>4. **João Barreto**: Persistent hardware transactions can scale <br/>5. **Samuel Thomas**: Rethinking Secure NVM in the Age of CXL |
+| 15:40–16:00 |	**Coffee Break II** |
+| 16:00–16:40<br/> Session 4 | **Processing in Memory<br/>Session chair: Panagiota Fatourou**<br/>1. **Phillip Gibbons**: Processing-in-Memory: Theory and Practice<br/>2. **Paolo Romano**: Transactional Memory for Processing-In-Memory Systems: a Software-based Implementation for the UPMEM platform |
+| 16:40–18:00 | **Discussion Session - Panel** |
 
 
 
