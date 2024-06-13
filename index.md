@@ -64,7 +64,8 @@ The workshop takes place on June 21st, 2024.
 
 | Time  | Activity  |
 |---|---|
-| 9:00 – 10:30 |	1st Session of Invited Talks |
+| 9:00 – 10:40 <br/> Session 1 |	Persistent Computing – Theory, Algorithms, Data Structures (Session Chair:
+Maurice Herlihy) <br/> **Wojciech Golab**: How Persistent Memory Changed Distributed Computing Theory<br/> **Erez Petrank**: The Persistence Bug: Dead or Alive?<br/>**Panagiota Fatourou**: Persistent Data Structures: The principles that govern their design<br/>**Eleni Kanellou**: The Power of Software Combining in Persistence<br/>Eric Ruppert: When is Recoverable Consensus harder than Consensus? |
 | 10:30 – 10:50 |	Coffee Break |
 | 10:50 – 12:20 |	2nd Session of Invited Talks |
 | 12:20 – 14:00 |	Lunch |
