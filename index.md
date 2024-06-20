@@ -64,7 +64,7 @@ The workshop takes place on June 21st, 2024.
 
 | Time  | Activity  |
 |---|---|
-| 9:00–10:40 <br/> Session 1 |	**Persistent Computing – Theory, Algorithms, Data Structures<br/>Session Chair: Maurice Herlihy** <br/> 1. **Wojciech Golab**: How Persistent Memory Changed Distributed Computing Theory<br/> 2. **Erez Petrank**: The Persistence Bug: Dead or Alive?<br/>3. **Panagiota Fatourou**: Persistent Data Structures: The principles that govern their design<br/>4. **Eleni Kanellou**: The Power of Software Combining in Persistence<br/>5. **Eric Ruppert**: When is Recoverable Consensus harder than Consensus? |
+| 9:00–10:40 <br/> Session 1 |	**Persistent Computing – Theory, Algorithms, Data Structures<br/>Session Chair: Maurice Herlihy** <br/> 1. **Wojciech Golab**: How Persistent Memory Changed Distributed Computing Theory<br/> 2. **Erez Petrank**: The Persistence Bug: Dead or Alive?<br/>3. **Panagiota Fatourou**: Highly-Efficient Persistent Data Structures: The performance principles that govern their design<br/>4. **Eleni Kanellou**: The Power of Software Combining in Persistence<br/>5. **Eric Ruppert**: When is Recoverable Consensus harder than Consensus? |
 | 10:40–11:00 |	**Coffee Break I** |
 | 11:00–12:20<br/> Session 2 | **Hardware-Aware/Accelerated/Supported Distributed Computing<br/>Session Chair: João Barreto**<br/>1. **Roberto Palmieri**: Synchronization using RDMA: High Performance, Programmability, and Scalability<br/>2. **George Hodgkins**: LOCO: Building Applications in Network Memory with Cross-Node Objects<br/>3. **Jim Larus**: Hardware-Accelerated, Fine-Grain BSP<br/>4. **Denisa-Andreea Constantinescu**: Neuro-Inspired Edge AI Architectures for Distributed Federated Learning |
 | 12:40–13:50 |	**Lunch** |
