@@ -67,9 +67,9 @@ The workshop takes place on June 21st, 2024.
 | 9:00–10:40 <br/> Session 1 |	**Persistent Computing – Theory, Algorithms, Data Structures<br/>Session Chair: Maurice Herlihy** <br/> 1. **Wojciech Golab**: How Persistent Memory Changed Distributed Computing Theory<br/> 2. **Erez Petrank**: The Persistence Bug: Dead or Alive?<br/>3. **Panagiota Fatourou**: Persistent Data Structures: The principles that govern their design<br/>4. **Eleni Kanellou**: The Power of Software Combining in Persistence<br/>5. **Eric Ruppert**: When is Recoverable Consensus harder than Consensus? |
 | 10:40–11:00 |	**Coffee Break I** |
 | 11:00–12:20<br/> Session 2 | **Hardware-Aware/Accelerated/Supported Distributed Computing<br/>Session Chair: João Barreto**<br/>1. **Roberto Palmieri**: Synchronization using RDMA: High Performance, Programmability, and Scalability<br/>2. **George Hodgkins**: LOCO: Building Applications in Network Memory with Cross-Node Objects<br/>3. **Jim Larus**: Hardware-Accelerated, Fine-Grain BSP<br/>4. **Denisa-Andreea Constantinescu**: Neuro-Inspired Edge AI Architectures for Distributed Federated Learning |
-| 12:40–14:00 |	**Lunch** |
+| 12:40–13:50 |	**Lunch** |
 | 13:50–15:30<br/> Session 3 | **Memory & Storage – Systems, Practice, Applications<br/>Session Chair: Erez Petrank**<br/>1. **Naama Ben-David**: The Effects of Fast I/O on Concurrent Computing<br/>2. **Gala Yadgar**: Who moved my cheese? How storage systems deal with changes in their media<br/>3. **Gregory Chockler**: Mangosteen: Fast Transparent Durability for Linearizable Applications using NVM<br/>4. **João Barreto**: Persistent hardware transactions can scale <br/>5. **Samuel Thomas**: Rethinking Secure NVM in the Age of CXL |
-| 15:30–15:50 |	**Coffee Break II** |
+| 15:30–15:50 |	**Break** |
 | 15:50–16:30<br/> Session 4 | **Processing in Memory<br/>Session chair: Panagiota Fatourou**<br/>1. **Phillip Gibbons**: Processing-in-Memory: Theory and Practice<br/>2. **Paolo Romano**: Transactional Memory for Processing-In-Memory Systems: a Software-based Implementation for the UPMEM platform |
 | 16:30–18:00 | **Discussion Session - Panel** |
 
